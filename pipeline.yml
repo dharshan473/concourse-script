@@ -28,7 +28,6 @@ jobs:
           cd my-git-repo
           ls -la
           cat test
-          echo "Initial commit!"
 
 
 
